@@ -1,0 +1,230 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = D4CB43C109B18EB70062AAC5 /* RayTracer */;
+		activeTarget = 8D1107260486CEB800E47090 /* RayTracer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* RayTracer */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = D4885C0109C03F0800324154 /* XCBreakpointsBucket */;
+		codeSenseManager = D4CB43D009B18EBE0062AAC5 /* Code sense */;
+		executables = (
+			D4CB43C109B18EB70062AAC5 /* RayTracer */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					473,
+					79,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					362,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 164516687;
+			PBXWorkspaceStateSaveDate = 164516687;
+		};
+		sourceControlManager = D4CB43CF09B18EBE0062AAC5 /* Source Control */;
+		userBookmarkGroup = D42A802B09BB9E04007C1957 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* RayTracer */ = {
+		activeExec = 0;
+		executables = (
+			D4CB43C109B18EB70062AAC5 /* RayTracer */,
+		);
+	};
+	D42A802B09BB9E04007C1957 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			D42A805809BC174F007C1957 /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	D42A805809BC174F007C1957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D4CB43DD09B18F770062AAC5 /* xform3Ddemo.cpp */;
+		name = myPic;
+		rLen = 5;
+		rLoc = 21378;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 19180;
+	};
+	D4885C0109C03F0800324154 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	D4CB43C109B18EB70062AAC5 /* RayTracer */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RayTracer;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	D4CB43CF09B18EBE0062AAC5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	D4CB43D009B18EBE0062AAC5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D4CB43D309B18F2C0062AAC5 /* CTransRot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {757, 1218}}";
+			sepNavSelRange = "{694, 0}";
+			sepNavVisRect = "{{0, 568}, {757, 650}}";
+			sepNavWindowFrame = "{{15, 18}, {796, 723}}";
+		};
+	};
+	D4CB43D509B18F470062AAC5 /* CTransRot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 540}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRect = "{{0, 0}, {728, 540}}";
+			sepNavWindowFrame = "{{15, 72}, {767, 669}}";
+		};
+	};
+	D4CB43D609B18F470062AAC5 /* my_vecmat.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 42588}}";
+			sepNavSelRange = "{1944, 10}";
+			sepNavVisRect = "{{0, 465}, {728, 596}}";
+			sepNavWindowFrame = "{{213, 22}, {767, 669}}";
+		};
+	};
+	D4CB43D709B18F470062AAC5 /* my_vecmat.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 6510}}";
+			sepNavSelRange = "{5070, 9}";
+			sepNavVisRect = "{{0, 1337}, {728, 596}}";
+			sepNavWindowFrame = "{{240, 16}, {767, 669}}";
+		};
+	};
+	D4CB43D809B18F470062AAC5 /* raytrace.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 5124}}";
+			sepNavSelRange = "{9114, 6}";
+			sepNavVisRect = "{{0, 3417}, {798, 629}}";
+			sepNavWindowFrame = "{{29, 27}, {837, 702}}";
+		};
+	};
+	D4CB43D909B18F470062AAC5 /* raytrace.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {746, 1820}}";
+			sepNavSelRange = "{3771, 0}";
+			sepNavVisRect = "{{0, 0}, {728, 449}}";
+			sepNavWindowFrame = "{{201, 8}, {767, 522}}";
+		};
+	};
+	D4CB43DC09B18F530062AAC5 /* bmp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 1176}}";
+			sepNavSelRange = "{404, 0}";
+			sepNavVisRect = "{{0, 0}, {728, 540}}";
+			sepNavWindowFrame = "{{61, 30}, {767, 669}}";
+		};
+	};
+	D4CB43DD09B18F770062AAC5 /* xform3Ddemo.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 12362}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {773, 639}}";
+			sepNavWindowFrame = "{{55, 5}, {812, 712}}";
+		};
+	};
+}
